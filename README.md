@@ -1,4 +1,3 @@
 
 ### Hello 👋 I'm Corneliu!
-
-(https://github.com/cornelber/cornelber/blob/main/github-temp-bannner.jpg)
+![Entry Level Web Developer](https://github.com/cornelber/cornelber/blob/main/github-temp-bannner.jpg)
